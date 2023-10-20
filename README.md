@@ -2,7 +2,7 @@
 I'm Rain and I really like programming <3. 
 
 ## What can i do?🖥️
-**Programming Languages**: python, javascript, java,c++,c#
+**Programming Languages**: python
 
 ## Main Projects🎶
 [ilyrain.devv](https://ilyrain.devv)
