@@ -1,11 +1,11 @@
 # Welcome to my profile :))⭐
-I'm Rain and I really like programming <3. 
+I'm Stellar and I really like programming <3. 
 
 ## What can i do?🖥️
 **Programming Languages**: python, visual basic
 
 ## Main Projects🎶
-[ilyrain.devv](https://ilyrain.devv)
+[ilystellar.devv](https://ilystellar.devv)
 
 # Support me🧇
 Pls, give me a star if you think that my work is good, thankies <3
